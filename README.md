@@ -2,6 +2,11 @@
 
 - 한국외국어대학교 컴퓨터공학부
 - 개인 페이지: https://uols2170065.github.io
+- 공기업 전산직을 목표로 준비하고 있습니다
+
+### 자격증 / 어학
+- 컴퓨터활용능력 1급, 한국사능력검정시험 1급, TOEIC 840
+- 준비 중: SQLD
 
 ### 사용해 본 것들
 - Python (pandas, scikit-learn, matplotlib)
